@@ -131,7 +131,7 @@ video {
 
 .img_text2 {
     width: 25%;
-    margin-right: 5%;
+    margin-right: 6%;
 }
 
 .img_text22 {
@@ -151,4 +151,9 @@ video {
 
 hr{
     opacity: 0;
+}
+
+.duophoto{
+width: 80%;
+margin-right: auto;
 }
