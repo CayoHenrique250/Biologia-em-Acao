@@ -94,6 +94,21 @@
 }
 
 .back-of {
-    margin-top: 75%;
+    margin-top: 90%;
     opacity: 0;
+}
+
+.back-of-tut {
+    margin-top: 90%;
+    opacity: 0;
+}
+
+.tut-img{
+    width: 100%;
+    height: 400px;
+}
+
+.of-img{
+    width: 100%;
+    height: 400px;
 }
