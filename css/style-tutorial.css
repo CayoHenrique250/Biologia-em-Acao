@@ -115,7 +115,7 @@ video {
     margin-left: 2%;
 }
 
-.dark .texto li{
+.dark .texto li {
     color: #c2c1c1;
 }
 
@@ -149,11 +149,11 @@ video {
     display: block;
 }
 
-hr{
+hr {
     opacity: 0;
 }
 
-.duophoto{
-width: 80%;
-margin-right: auto;
+.duophoto {
+    width: 80%;
+    margin-left: 26%;
 }
